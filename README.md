@@ -17,10 +17,12 @@ This surprise signal enables agents to:
 Experiments were performed in the MiniGrid-DoorKey-8x8 and MiniGrid-LavaCrossingS9N1 environments.
 
 Citation:
+
 Yash Kini, Shiv Davay, Shreya Polavarapu. 
 “Deep Intrinsic Surprise-Regularized Control (DISRC): A Biologically Inspired Mechanism for Efficient Deep Q-Learning in Sparse Environments.” 
 IEEE Undergraduate Research Technology Conference (URTC), 2025.
 
-Acknowledgments
+Acknowledgments:
+
 This work was conducted under the mentorship of Dr. Maryam Parsa, Hamed Poursiami, and Shay Snyder through the George Mason University ASSIP 2025 Program.
 We acknowledge the support of the Farama Foundation for providing the MiniGrid benchmark suite and thank the IEEE URTC organizing committee for the opportunity to submit and present.
