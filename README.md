@@ -4,7 +4,15 @@ A Biologically Inspired Mechanism for Efficient Deep Q-Learning in Sparse Enviro
 
 This repository contains the official implementation, figures, and metrics for the URTC 2025 paper titled:
 “Deep Intrinsic Surprise-Regularized Control (DISRC): A Biologically Inspired Mechanism for Efficient Deep Q-Learning in Sparse Environments.”
-Authors: Yash Kini, Shiv Davay, Shreya Polavarapu
+Authors:
+
+- Yash Kini (kiniyash3@gmail.com)
+
+- Shiv Davay (davayshiv@gmail.com)
+
+- Shreya Polavarapu (shreyapolavarapu9@gmail.com)
+
+Please contact the authors for any questions, issues, or collaboration requests regarding this repository.
 
 DISRC introduces a novel augmentation to Deep Q-Networks (DQNs) by leveraging intrinsic surprise to scale Q-value updates in real-time. By modeling biological plasticity mechanisms—such as neuromodulatory dopamine dynamics—DISRC adjusts learning strength using a deviation-based surprise signal computed from latent encodings of the agent’s internal state.
 
