@@ -3,6 +3,7 @@ Deep Intrinsic Surprise-Regularized Control (DISRC): A Biologically Inspired Mec
 
 This repository contains the official implementation, figures, and metrics for the URTC 2025 paper titled:
 “Deep Intrinsic Surprise-Regularized Control (DISRC): A Biologically Inspired Mechanism for Efficient Deep Q-Learning in Sparse Environments.”
+
 Authors:
 
 - Yash Kini (kiniyash3@gmail.com)
