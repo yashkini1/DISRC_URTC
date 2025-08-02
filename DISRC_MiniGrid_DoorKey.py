@@ -286,9 +286,9 @@ def main():
     plt.xlabel("Training Step"); plt.ylabel("Loss"); plt.legend(); plt.grid(alpha=0.3)
 
     plt.tight_layout()
-    plt.savefig("DISRC_MiniGrid_results.png", dpi=300, bbox_inches='tight')
+    plt.savefig("DISRC_MiniGrid_DoorKey_results.png", dpi=300, bbox_inches='tight')
     plt.show()
-    print("Plot saved as 'DISRC_MiniGrid_results.png'")
+    print("Plot saved as 'DISRC_MiniGrid_DoorKey_results.png'")
 
 # Entrypoint
 if __name__ == "__main__":
