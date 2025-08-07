@@ -32,5 +32,4 @@ IEEE Undergraduate Research Technology Conference (URTC), 2025.
 
 Acknowledgments:
 
-This work was conducted under the mentorship of Dr. Maryam Parsa, Hamed Poursiami, and Shay Snyder through the George Mason University ASSIP 2025 Program.
-We acknowledge the support of the Farama Foundation for providing the MiniGrid benchmark suite and thank the IEEE URTC organizing committee for the opportunity to submit and present.
+This work was conducted through the George Mason University Aspiring Scientists Summer Internship 2025 Program (ASSIP). We acknowledge the support of the Farama Foundation for providing the MiniGrid benchmark suite and thank the IEEE URTC organizing committee for the opportunity to submit and present.
